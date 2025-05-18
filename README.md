@@ -140,7 +140,7 @@ python evaluate.py \
 ```
 
 ## ✅ Project Structure
-.
+```bash
 ├── mmaction2/
 ├── OpenTAD/
 ├── datasets/
@@ -149,7 +149,7 @@ python evaluate.py \
 │ ├── category.idx
 │ ├── missing_files.txt
 │ └── I3D_Feature_Extraction.ipynb
-
+```
 ---
 
 ## 📌 Notes
