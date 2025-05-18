@@ -1,4 +1,3 @@
 /OpenTAD/configs/_base_/models/actionformer.py
 /OpenTAD/configs/_base_/datasets/features_i3d_pad.py
-/OpenTAD/tools/custom_train.py
 /OpenTAD/datasets
