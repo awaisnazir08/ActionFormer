@@ -1,0 +1,3896 @@
+{
+  "database": {
+    "S1_Cheese_C1": {
+      "duration": 52.67,
+      "frame": 790,
+      "annotations": [
+        {
+          "segment": [
+            0.87,
+            4.73
+          ],
+          "label": "take"
+        },
+        {
+          "segment": [
+            6.67,
+            11.47
+          ],
+          "label": "take"
+        },
+        {
+          "segment": [
+            11.47,
+            18.0
+          ],
+          "label": "open"
+        },
+        {
+          "segment": [
+            17.93,
+            20.2
+          ],
+          "label": "put"
+        },
+        {
+          "segment": [
+            20.4,
+            21.87
+          ],
+          "label": "take"
+        },
+        {
+          "segment": [
+            23.33,
+            24.67
+          ],
+          "label": "open"
+        },
+        {
+          "segment": [
+            25.33,
+            31.33
+          ],
+          "label": "pour"
+        },
+        {
+          "segment": [
+            31.33,
+            32.67
+          ],
+          "label": "close"
+        },
+        {
+          "segment": [
+            32.73,
+            34.33
+          ],
+          "label": "put"
+        },
+        {
+          "segment": [
+            34.4,
+            35.4
+          ],
+          "label": "take"
+        },
+        {
+          "segment": [
+            35.8,
+            38.93
+          ],
+          "label": "open"
+        },
+        {
+          "segment": [
+            39.2,
+            43.27
+          ],
+          "label": "pour"
+        },
+        {
+          "segment": [
+            44.0,
+            45.33
+          ],
+          "label": "close"
+        },
+        {
+          "segment": [
+            45.4,
+            46.27
+          ],
+          "label": "put"
+        },
+        {
+          "segment": [
+            46.67,
+            49.87
+          ],
+          "label": "take"
+        },
+        {
+          "segment": [
+            49.93,
+            52.67
+          ],
+          "label": "put"
+        }
+      ],
+      "subset": "training"
+    },
+    "S1_CofHoney_C1": {
+      "duration": 79.8,
+      "frame": 1197,
+      "annotations": [
+        {
+          "segment": [
+            1.27,
+            3.2
+          ],
+          "label": "take"
+        },
+        {
+          "segment": [
+            5.87,
+            7.2
+          ],
+          "label": "take"
+        },
+        {
+          "segment": [
+            7.2,
+            9.4
+          ],
+          "label": "open"
+        },
+        {
+          "segment": [
+            10.67,
+            14.2
+          ],
+          "label": "take"
+        },
+        {
+          "segment": [
+            16.87,
+            20.67
+          ],
+          "label": "scoop"
+        },
+        {
+          "segment": [
+            20.93,
+            22.33
+          ],
+          "label": "pour"
+        },
+        {
+          "segment": [
+            22.73,
+            25.0
+          ],
+          "label": "scoop"
+        },
+        {
+          "segment": [
+            25.13,
+            26.2
+          ],
+          "label": "pour"
+        },
+        {
+          "segment": [
+            27.47,
+            31.73
+          ],
+          "label": "close"
+        },
+        {
+          "segment": [
+            31.8,
+            33.53
+          ],
+          "label": "put"
+        },
+        {
+          "segment": [
+            34.13,
+            35.6
+          ],
+          "label": "take"
+        },
+        {
+          "segment": [
+            35.6,
+            37.2
+          ],
+          "label": "open"
+        },
+        {
+          "segment": [
+            37.6,
+            47.47
+          ],
+          "label": "pour"
+        },
+        {
+          "segment": [
+            47.47,
+            48.67
+          ],
+          "label": "close"
+        },
+        {
+          "segment": [
+            48.73,
+            50.47
+          ],
+          "label": "put"
+        },
+        {
+          "segment": [
+            52.33,
+            53.47
+          ],
+          "label": "take"
+        },
+        {
+          "segment": [
+            53.6,
+            55.27
+          ],
+          "label": "open"
+        },
+        {
+          "segment": [
+            55.6,
+            61.8
+          ],
+          "label": "pour"
+        },
+        {
+          "segment": [
+            62.13,
+            63.73
+          ],
+          "label": "close"
+        },
+        {
+          "segment": [
+            63.8,
+            65.13
+          ],
+          "label": "put"
+        },
+        {
+          "segment": [
+            66.47,
+            79.8
+          ],
+          "label": "stir"
+        }
+      ],
+      "subset": "training"
+    },
+    "S1_Coffee_C1": {
+      "duration": 72.47,
+      "frame": 1087,
+      "annotations": [
+        {
+          "segment": [
+            0.93,
+            2.67
+          ],
+          "label": "take"
+        },
+        {
+          "segment": [
+            4.4,
+            5.87
+          ],
+          "label": "take"
+        },
+        {
+          "segment": [
+            5.8,
+            8.33
+          ],
+          "label": "open"
+        },
+        {
+          "segment": [
+            9.73,
+            13.67
+          ],
+          "label": "take"
+        },
+        {
+          "segment": [
+            15.8,
+            18.4
+          ],
+          "label": "scoop"
+        },
+        {
+          "segment": [
+            18.6,
+            19.47
+          ],
+          "label": "pour"
+        },
+        {
+          "segment": [
+            19.8,
+            21.53
+          ],
+          "label": "scoop"
+        },
+        {
+          "segment": [
+            21.6,
+            22.73
+          ],
+          "label": "pour"
+        },
+        {
+          "segment": [
+            24.67,
+            27.53
+          ],
+          "label": "close"
+        },
+        {
+          "segment": [
+            27.6,
+            28.93
+          ],
+          "label": "put"
+        },
+        {
+          "segment": [
+            29.2,
+            30.67
+          ],
+          "label": "take"
+        },
+        {
+          "segment": [
+            30.67,
+            32.47
+          ],
+          "label": "open"
+        },
+        {
+          "segment": [
+            34.67,
+            37.47
+          ],
+          "label": "scoop"
+        },
+        {
+          "segment": [
+            37.53,
+            38.47
+          ],
+          "label": "pour"
+        },
+        {
+          "segment": [
+            38.8,
+            40.93
+          ],
+          "label": "scoop"
+        },
+        {
+          "segment": [
+            41.0,
+            41.67
+          ],
+          "label": "pour"
+        },
+        {
+          "segment": [
+            43.73,
+            46.6
+          ],
+          "label": "close"
+        },
+        {
+          "segment": [
+            46.67,
+            47.87
+          ],
+          "label": "put"
+        },
+        {
+          "segment": [
+            48.07,
+            49.13
+          ],
+          "label": "take"
+        },
+        {
+          "segment": [
+            49.27,
+            51.0
+          ],
+          "label": "open"
+        },
+        {
+          "segment": [
+            51.53,
+            61.0
+          ],
+          "label": "pour"
+        },
+        {
+          "segment": [
+            61.33,
+            62.6
+          ],
+          "label": "put"
+        },
+        {
+          "segment": [
+            62.67,
+            64.07
+          ],
+          "label": "close"
+        },
+        {
+          "segment": [
+            65.33,
+            72.47
+          ],
+          "label": "stir"
+        }
+      ],
+      "subset": "training"
+    },
+    "S1_Hotdog_C1": {
+      "duration": 39.53,
+      "frame": 593,
+      "annotations": [
+        {
+          "segment": [
+            1.13,
+            4.07
+          ],
+          "label": "take"
+        },
+        {
+          "segment": [
+            5.53,
+            8.2
+          ],
+          "label": "take"
+        },
+        {
+          "segment": [
+            8.13,
+            9.53
+          ],
+          "label": "put"
+        },
+        {
+          "segment": [
+            10.27,
+            11.4
+          ],
+          "label": "take"
+        },
+        {
+          "segment": [
+            11.4,
+            13.0
+          ],
+          "label": "open"
+        },
+        {
+          "segment": [
+            13.2,
+            22.07
+          ],
+          "label": "pour"
+        },
+        {
+          "segment": [
+            22.2,
+            23.07
+          ],
+          "label": "close"
+        },
+        {
+          "segment": [
+            23.13,
+            24.4
+          ],
+          "label": "put"
+        },
+        {
+          "segment": [
+            24.47,
+            25.6
+          ],
+          "label": "take"
+        },
+        {
+          "segment": [
+            26.27,
+            28.33
+          ],
+          "label": "open"
+        },
+        {
+          "segment": [
+            29.13,
+            31.53
+          ],
+          "label": "pour"
+        },
+        {
+          "segment": [
+            31.53,
+            32.2
+          ],
+          "label": "close"
+        },
+        {
+          "segment": [
+            32.27,
+            34.2
+          ],
+          "label": "put"
+        },
+        {
+          "segment": [
+            35.07,
+            39.53
+          ],
+          "label": "fold"
+        }
+      ],
+      "subset": "training"
+    },
+    "S1_Pealate_C1": {
+      "duration": 88.47,
+      "frame": 1327,
+      "annotations": [
+        {
+          "segment": [
+            1.47,
+            3.67
+          ],
+          "label": "take"
+        },
+        {
+          "segment": [
+            4.8,
+            5.8
+          ],
+          "label": "take"
+        },
+        {
+          "segment": [
+            5.87,
+            7.0
+          ],
+          "label": "open"
+        },
+        {
+          "segment": [
+            8.07,
+            14.0
+          ],
+          "label": "take"
+        },
+        {
+          "segment": [
+            15.6,
+            19.27
+          ],
+          "label": "scoop"
+        },
+        {
+          "segment": [
+            20.4,
+            30.33
+          ],
+          "label": "spread"
+        },
+        {
+          "segment": [
+            31.47,
+            33.6
+          ],
+          "label": "close"
+        },
+        {
+          "segment": [
+            33.67,
+            35.4
+          ],
+          "label": "put"
+        },
+        {
+          "segment": [
+            35.47,
+            36.13
+          ],
+          "label": "take"
+        },
+        {
+          "segment": [
+            36.27,
+            38.27
+          ],
+          "label": "open"
+        },
+        {
+          "segment": [
+            40.4,
+            42.4
+          ],
+          "label": "scoop"
+        },
+        {
+          "segment": [
+            44.2,
+            54.47
+          ],
+          "label": "spread"
+        },
+        {
+          "segment": [
+            56.2,
+            60.73
+          ],
+          "label": "close"
+        },
+        {
+          "segment": [
+            60.8,
+            61.73
+          ],
+          "label": "put"
+        },
+        {
+          "segment": [
+            61.8,
+            62.53
+          ],
+          "label": "take"
+        },
+        {
+          "segment": [
+            62.53,
+            65.0
+          ],
+          "label": "open"
+        },
+        {
+          "segment": [
+            67.6,
+            71.73
+          ],
+          "label": "pour"
+        },
+        {
+          "segment": [
+            74.07,
+            75.13
+          ],
+          "label": "close"
+        },
+        {
+          "segment": [
+            75.2,
+            76.0
+          ],
+          "label": "put"
+        },
+        {
+          "segment": [
+            77.47,
+            81.13
+          ],
+          "label": "take"
+        },
+        {
+          "segment": [
+            81.33,
+            88.47
+          ],
+          "label": "put"
+        }
+      ],
+      "subset": "training"
+    },
+    "S1_Peanut_C1": {
+      "duration": 103.33,
+      "frame": 1550,
+      "annotations": [
+        {
+          "segment": [
+            1.6,
+            5.07
+          ],
+          "label": "take"
+        },
+        {
+          "segment": [
+            6.47,
+            8.4
+          ],
+          "label": "take"
+        },
+        {
+          "segment": [
+            8.67,
+            12.33
+          ],
+          "label": "open"
+        },
+        {
+          "segment": [
+            15.0,
+            17.73
+          ],
+          "label": "take"
+        },
+        {
+          "segment": [
+            18.67,
+            24.0
+          ],
+          "label": "scoop"
+        },
+        {
+          "segment": [
+            25.4,
+            51.6
+          ],
+          "label": "spread"
+        },
+        {
+          "segment": [
+            56.73,
+            58.53
+          ],
+          "label": "take"
+        },
+        {
+          "segment": [
+            60.47,
+            66.47
+          ],
+          "label": "close"
+        },
+        {
+          "segment": [
+            66.53,
+            69.0
+          ],
+          "label": "put"
+        },
+        {
+          "segment": [
+            69.87,
+            70.4
+          ],
+          "label": "take"
+        },
+        {
+          "segment": [
+            70.47,
+            71.87
+          ],
+          "label": "open"
+        },
+        {
+          "segment": [
+            74.07,
+            90.73
+          ],
+          "label": "pour"
+        },
+        {
+          "segment": [
+            91.8,
+            93.33
+          ],
+          "label": "close"
+        },
+        {
+          "segment": [
+            93.4,
+            94.87
+          ],
+          "label": "put"
+        },
+        {
+          "segment": [
+            95.6,
+            98.4
+          ],
+          "label": "take"
+        },
+        {
+          "segment": [
+            98.33,
+            103.33
+          ],
+          "label": "put"
+        }
+      ],
+      "subset": "training"
+    },
+    "S1_Tea_C1": {
+      "duration": 128.67,
+      "frame": 1930,
+      "annotations": [
+        {
+          "segment": [
+            0.8,
+            3.47
+          ],
+          "label": "take"
+        },
+        {
+          "segment": [
+            4.67,
+            6.0
+          ],
+          "label": "take"
+        },
+        {
+          "segment": [
+            6.07,
+            8.13
+          ],
+          "label": "open"
+        },
+        {
+          "segment": [
+            8.13,
+            20.33
+          ],
+          "label": "pour"
+        },
+        {
+          "segment": [
+            21.33,
+            22.47
+          ],
+          "label": "close"
+        },
+        {
+          "segment": [
+            22.53,
+            23.47
+          ],
+          "label": "put"
+        },
+        {
+          "segment": [
+            23.87,
+            25.8
+          ],
+          "label": "take"
+        },
+        {
+          "segment": [
+            30.93,
+            32.47
+          ],
+          "label": "put"
+        },
+        {
+          "segment": [
+            33.2,
+            47.47
+          ],
+          "label": "open"
+        },
+        {
+          "segment": [
+            50.33,
+            93.33
+          ],
+          "label": "shake"
+        },
+        {
+          "segment": [
+            94.73,
+            96.47
+          ],
+          "label": "take"
+        },
+        {
+          "segment": [
+            97.2,
+            99.47
+          ],
+          "label": "open"
+        },
+        {
+          "segment": [
+            102.6,
+            104.27
+          ],
+          "label": "take"
+        },
+        {
+          "segment": [
+            105.4,
+            108.0
+          ],
+          "label": "scoop"
+        },
+        {
+          "segment": [
+            108.07,
+            109.33
+          ],
+          "label": "pour"
+        },
+        {
+          "segment": [
+            109.47,
+            111.33
+          ],
+          "label": "scoop"
+        },
+        {
+          "segment": [
+            111.4,
+            112.13
+          ],
+          "label": "pour"
+        },
+        {
+          "segment": [
+            114.07,
+            116.2
+          ],
+          "label": "close"
+        },
+        {
+          "segment": [
+            116.27,
+            118.8
+          ],
+          "label": "put"
+        },
+        {
+          "segment": [
+            119.8,
+            128.67
+          ],
+          "label": "stir"
+        }
+      ],
+      "subset": "training"
+    },
+    "S2_Cheese_C1": {
+      "duration": 38.67,
+      "frame": 580,
+      "annotations": [
+        {
+          "segment": [
+            0.73,
+            4.33
+          ],
+          "label": "take"
+        },
+        {
+          "segment": [
+            4.8,
+            7.0
+          ],
+          "label": "take"
+        },
+        {
+          "segment": [
+            7.4,
+            11.33
+          ],
+          "label": "open"
+        },
+        {
+          "segment": [
+            11.4,
+            13.2
+          ],
+          "label": "put"
+        },
+        {
+          "segment": [
+            13.2,
+            14.47
+          ],
+          "label": "take"
+        },
+        {
+          "segment": [
+            14.53,
+            15.8
+          ],
+          "label": "open"
+        },
+        {
+          "segment": [
+            16.87,
+            22.0
+          ],
+          "label": "pour"
+        },
+        {
+          "segment": [
+            22.2,
+            23.0
+          ],
+          "label": "close"
+        },
+        {
+          "segment": [
+            23.07,
+            24.07
+          ],
+          "label": "put"
+        },
+        {
+          "segment": [
+            24.13,
+            24.8
+          ],
+          "label": "take"
+        },
+        {
+          "segment": [
+            24.87,
+            26.6
+          ],
+          "label": "open"
+        },
+        {
+          "segment": [
+            26.67,
+            29.53
+          ],
+          "label": "pour"
+        },
+        {
+          "segment": [
+            29.67,
+            30.6
+          ],
+          "label": "close"
+        },
+        {
+          "segment": [
+            30.67,
+            31.67
+          ],
+          "label": "put"
+        },
+        {
+          "segment": [
+            32.2,
+            35.27
+          ],
+          "label": "take"
+        },
+        {
+          "segment": [
+            35.67,
+            38.67
+          ],
+          "label": "put"
+        }
+      ],
+      "subset": "training"
+    },
+    "S2_CofHoney_C1": {
+      "duration": 53.47,
+      "frame": 802,
+      "annotations": [
+        {
+          "segment": [
+            0.53,
+            2.6
+          ],
+          "label": "take"
+        },
+        {
+          "segment": [
+            3.27,
+            4.47
+          ],
+          "label": "take"
+        },
+        {
+          "segment": [
+            4.67,
+            8.13
+          ],
+          "label": "take"
+        },
+        {
+          "segment": [
+            8.8,
+            10.07
+          ],
+          "label": "open"
+        },
+        {
+          "segment": [
+            11.93,
+            13.27
+          ],
+          "label": "scoop"
+        },
+        {
+          "segment": [
+            13.33,
+            14.13
+          ],
+          "label": "pour"
+        },
+        {
+          "segment": [
+            14.2,
+            15.2
+          ],
+          "label": "scoop"
+        },
+        {
+          "segment": [
+            15.33,
+            16.0
+          ],
+          "label": "pour"
+        },
+        {
+          "segment": [
+            17.2,
+            18.6
+          ],
+          "label": "close"
+        },
+        {
+          "segment": [
+            18.67,
+            19.93
+          ],
+          "label": "put"
+        },
+        {
+          "segment": [
+            20.27,
+            21.4
+          ],
+          "label": "take"
+        },
+        {
+          "segment": [
+            21.67,
+            23.0
+          ],
+          "label": "open"
+        },
+        {
+          "segment": [
+            23.4,
+            34.67
+          ],
+          "label": "pour"
+        },
+        {
+          "segment": [
+            34.93,
+            35.53
+          ],
+          "label": "close"
+        },
+        {
+          "segment": [
+            35.6,
+            36.67
+          ],
+          "label": "put"
+        },
+        {
+          "segment": [
+            36.87,
+            37.87
+          ],
+          "label": "take"
+        },
+        {
+          "segment": [
+            37.93,
+            40.87
+          ],
+          "label": "open"
+        },
+        {
+          "segment": [
+            41.47,
+            44.8
+          ],
+          "label": "pour"
+        },
+        {
+          "segment": [
+            45.27,
+            46.0
+          ],
+          "label": "close"
+        },
+        {
+          "segment": [
+            46.07,
+            46.87
+          ],
+          "label": "put"
+        },
+        {
+          "segment": [
+            47.53,
+            53.47
+          ],
+          "label": "stir"
+        }
+      ],
+      "subset": "training"
+    },
+    "S2_Coffee_C1": {
+      "duration": 119.0,
+      "frame": 1785,
+      "annotations": [
+        {
+          "segment": [
+            1.6,
+            5.07
+          ],
+          "label": "take"
+        },
+        {
+          "segment": [
+            6.2,
+            8.67
+          ],
+          "label": "take"
+        },
+        {
+          "segment": [
+            9.6,
+            14.93
+          ],
+          "label": "take"
+        },
+        {
+          "segment": [
+            15.87,
+            19.0
+          ],
+          "label": "open"
+        },
+        {
+          "segment": [
+            20.67,
+            26.4
+          ],
+          "label": "scoop"
+        },
+        {
+          "segment": [
+            26.53,
+            27.87
+          ],
+          "label": "pour"
+        },
+        {
+          "segment": [
+            28.33,
+            29.87
+          ],
+          "label": "scoop"
+        },
+        {
+          "segment": [
+            29.4,
+            31.0
+          ],
+          "label": "pour"
+        },
+        {
+          "segment": [
+            31.47,
+            36.0
+          ],
+          "label": "close"
+        },
+        {
+          "segment": [
+            36.07,
+            38.27
+          ],
+          "label": "put"
+        },
+        {
+          "segment": [
+            40.87,
+            44.0
+          ],
+          "label": "take"
+        },
+        {
+          "segment": [
+            44.07,
+            47.27
+          ],
+          "label": "open"
+        },
+        {
+          "segment": [
+            49.2,
+            62.67
+          ],
+          "label": "pour"
+        },
+        {
+          "segment": [
+            63.33,
+            64.93
+          ],
+          "label": "close"
+        },
+        {
+          "segment": [
+            65.0,
+            66.47
+          ],
+          "label": "put"
+        },
+        {
+          "segment": [
+            66.73,
+            69.4
+          ],
+          "label": "take"
+        },
+        {
+          "segment": [
+            70.6,
+            84.13
+          ],
+          "label": "open"
+        },
+        {
+          "segment": [
+            90.53,
+            92.8
+          ],
+          "label": "scoop"
+        },
+        {
+          "segment": [
+            92.87,
+            94.27
+          ],
+          "label": "pour"
+        },
+        {
+          "segment": [
+            96.4,
+            98.87
+          ],
+          "label": "scoop"
+        },
+        {
+          "segment": [
+            98.93,
+            100.33
+          ],
+          "label": "pour"
+        },
+        {
+          "segment": [
+            102.0,
+            106.73
+          ],
+          "label": "stir"
+        },
+        {
+          "segment": [
+            107.8,
+            109.73
+          ],
+          "label": "close"
+        },
+        {
+          "segment": [
+            109.8,
+            112.13
+          ],
+          "label": "put"
+        },
+        {
+          "segment": [
+            113.07,
+            119.0
+          ],
+          "label": "stir"
+        }
+      ],
+      "subset": "training"
+    },
+    "S2_Hotdog_C1": {
+      "duration": 48.53,
+      "frame": 728,
+      "annotations": [
+        {
+          "segment": [
+            1.07,
+            3.8
+          ],
+          "label": "take"
+        },
+        {
+          "segment": [
+            6.2,
+            12.47
+          ],
+          "label": "take"
+        },
+        {
+          "segment": [
+            12.53,
+            13.8
+          ],
+          "label": "put"
+        },
+        {
+          "segment": [
+            17.33,
+            18.87
+          ],
+          "label": "take"
+        },
+        {
+          "segment": [
+            19.2,
+            21.53
+          ],
+          "label": "open"
+        },
+        {
+          "segment": [
+            21.8,
+            27.13
+          ],
+          "label": "pour"
+        },
+        {
+          "segment": [
+            27.27,
+            29.67
+          ],
+          "label": "close"
+        },
+        {
+          "segment": [
+            29.73,
+            30.93
+          ],
+          "label": "put"
+        },
+        {
+          "segment": [
+            31.07,
+            32.6
+          ],
+          "label": "take"
+        },
+        {
+          "segment": [
+            35.6,
+            37.07
+          ],
+          "label": "open"
+        },
+        {
+          "segment": [
+            37.07,
+            40.73
+          ],
+          "label": "pour"
+        },
+        {
+          "segment": [
+            40.8,
+            42.53
+          ],
+          "label": "close"
+        },
+        {
+          "segment": [
+            42.73,
+            44.6
+          ],
+          "label": "put"
+        },
+        {
+          "segment": [
+            45.07,
+            48.53
+          ],
+          "label": "fold"
+        }
+      ],
+      "subset": "validation"
+    },
+    "S2_Pealate_C1": {
+      "duration": 77.33,
+      "frame": 1160,
+      "annotations": [
+        {
+          "segment": [
+            1.27,
+            6.4
+          ],
+          "label": "take"
+        },
+        {
+          "segment": [
+            6.8,
+            11.6
+          ],
+          "label": "take"
+        },
+        {
+          "segment": [
+            12.07,
+            13.67
+          ],
+          "label": "take"
+        },
+        {
+          "segment": [
+            14.33,
+            15.47
+          ],
+          "label": "open"
+        },
+        {
+          "segment": [
+            17.4,
+            19.33
+          ],
+          "label": "scoop"
+        },
+        {
+          "segment": [
+            22.27,
+            23.93
+          ],
+          "label": "close"
+        },
+        {
+          "segment": [
+            24.2,
+            25.13
+          ],
+          "label": "put"
+        },
+        {
+          "segment": [
+            28.0,
+            36.0
+          ],
+          "label": "spread"
+        },
+        {
+          "segment": [
+            36.13,
+            37.2
+          ],
+          "label": "take"
+        },
+        {
+          "segment": [
+            37.33,
+            39.8
+          ],
+          "label": "open"
+        },
+        {
+          "segment": [
+            41.67,
+            43.53
+          ],
+          "label": "scoop"
+        },
+        {
+          "segment": [
+            44.6,
+            47.67
+          ],
+          "label": "close"
+        },
+        {
+          "segment": [
+            47.73,
+            48.47
+          ],
+          "label": "put"
+        },
+        {
+          "segment": [
+            49.87,
+            56.13
+          ],
+          "label": "spread"
+        },
+        {
+          "segment": [
+            57.07,
+            58.6
+          ],
+          "label": "take"
+        },
+        {
+          "segment": [
+            59.87,
+            61.53
+          ],
+          "label": "open"
+        },
+        {
+          "segment": [
+            61.87,
+            65.07
+          ],
+          "label": "pour"
+        },
+        {
+          "segment": [
+            65.67,
+            66.47
+          ],
+          "label": "close"
+        },
+        {
+          "segment": [
+            66.53,
+            67.73
+          ],
+          "label": "put"
+        },
+        {
+          "segment": [
+            68.27,
+            72.6
+          ],
+          "label": "take"
+        },
+        {
+          "segment": [
+            73.4,
+            77.33
+          ],
+          "label": "put"
+        }
+      ],
+      "subset": "training"
+    },
+    "S2_Peanut_C1": {
+      "duration": 90.67,
+      "frame": 1360,
+      "annotations": [
+        {
+          "segment": [
+            1.2,
+            3.73
+          ],
+          "label": "take"
+        },
+        {
+          "segment": [
+            3.93,
+            11.4
+          ],
+          "label": "take"
+        },
+        {
+          "segment": [
+            12.33,
+            14.73
+          ],
+          "label": "take"
+        },
+        {
+          "segment": [
+            15.4,
+            20.0
+          ],
+          "label": "open"
+        },
+        {
+          "segment": [
+            22.67,
+            26.33
+          ],
+          "label": "scoop"
+        },
+        {
+          "segment": [
+            26.67,
+            35.33
+          ],
+          "label": "spread"
+        },
+        {
+          "segment": [
+            35.67,
+            39.53
+          ],
+          "label": "scoop"
+        },
+        {
+          "segment": [
+            39.6,
+            50.33
+          ],
+          "label": "spread"
+        },
+        {
+          "segment": [
+            52.27,
+            61.0
+          ],
+          "label": "close"
+        },
+        {
+          "segment": [
+            61.07,
+            62.53
+          ],
+          "label": "put"
+        },
+        {
+          "segment": [
+            62.8,
+            64.13
+          ],
+          "label": "take"
+        },
+        {
+          "segment": [
+            67.33,
+            69.87
+          ],
+          "label": "open"
+        },
+        {
+          "segment": [
+            73.47,
+            80.47
+          ],
+          "label": "pour"
+        },
+        {
+          "segment": [
+            82.53,
+            83.93
+          ],
+          "label": "close"
+        },
+        {
+          "segment": [
+            84.0,
+            84.8
+          ],
+          "label": "put"
+        },
+        {
+          "segment": [
+            84.93,
+            87.27
+          ],
+          "label": "take"
+        },
+        {
+          "segment": [
+            87.33,
+            90.67
+          ],
+          "label": "put"
+        }
+      ],
+      "subset": "training"
+    },
+    "S2_Tea_C1": {
+      "duration": 91.67,
+      "frame": 1375,
+      "annotations": [
+        {
+          "segment": [
+            1.2,
+            3.13
+          ],
+          "label": "take"
+        },
+        {
+          "segment": [
+            4.8,
+            6.6
+          ],
+          "label": "take"
+        },
+        {
+          "segment": [
+            6.87,
+            8.4
+          ],
+          "label": "open"
+        },
+        {
+          "segment": [
+            9.8,
+            25.6
+          ],
+          "label": "pour"
+        },
+        {
+          "segment": [
+            26.2,
+            27.47
+          ],
+          "label": "close"
+        },
+        {
+          "segment": [
+            27.53,
+            28.87
+          ],
+          "label": "put"
+        },
+        {
+          "segment": [
+            29.33,
+            30.8
+          ],
+          "label": "take"
+        },
+        {
+          "segment": [
+            35.27,
+            36.4
+          ],
+          "label": "put"
+        },
+        {
+          "segment": [
+            36.8,
+            43.4
+          ],
+          "label": "open"
+        },
+        {
+          "segment": [
+            46.0,
+            58.53
+          ],
+          "label": "shake"
+        },
+        {
+          "segment": [
+            60.2,
+            61.8
+          ],
+          "label": "take"
+        },
+        {
+          "segment": [
+            62.07,
+            64.07
+          ],
+          "label": "open"
+        },
+        {
+          "segment": [
+            64.73,
+            68.4
+          ],
+          "label": "take"
+        },
+        {
+          "segment": [
+            70.67,
+            72.93
+          ],
+          "label": "scoop"
+        },
+        {
+          "segment": [
+            73.2,
+            74.53
+          ],
+          "label": "pour"
+        },
+        {
+          "segment": [
+            74.67,
+            76.8
+          ],
+          "label": "scoop"
+        },
+        {
+          "segment": [
+            76.87,
+            77.73
+          ],
+          "label": "pour"
+        },
+        {
+          "segment": [
+            78.53,
+            80.6
+          ],
+          "label": "close"
+        },
+        {
+          "segment": [
+            80.67,
+            82.73
+          ],
+          "label": "put"
+        },
+        {
+          "segment": [
+            83.4,
+            91.67
+          ],
+          "label": "stir"
+        }
+      ],
+      "subset": "training"
+    },
+    "S3_Cheese_C1": {
+      "duration": 55.73,
+      "frame": 836,
+      "annotations": [
+        {
+          "segment": [
+            1.33,
+            4.4
+          ],
+          "label": "take"
+        },
+        {
+          "segment": [
+            5.67,
+            8.0
+          ],
+          "label": "take"
+        },
+        {
+          "segment": [
+            8.27,
+            16.47
+          ],
+          "label": "open"
+        },
+        {
+          "segment": [
+            16.8,
+            18.4
+          ],
+          "label": "put"
+        },
+        {
+          "segment": [
+            21.07,
+            23.27
+          ],
+          "label": "take"
+        },
+        {
+          "segment": [
+            23.07,
+            25.0
+          ],
+          "label": "open"
+        },
+        {
+          "segment": [
+            26.2,
+            33.47
+          ],
+          "label": "pour"
+        },
+        {
+          "segment": [
+            34.13,
+            35.47
+          ],
+          "label": "close"
+        },
+        {
+          "segment": [
+            35.53,
+            36.87
+          ],
+          "label": "put"
+        },
+        {
+          "segment": [
+            36.93,
+            38.07
+          ],
+          "label": "take"
+        },
+        {
+          "segment": [
+            38.2,
+            39.73
+          ],
+          "label": "open"
+        },
+        {
+          "segment": [
+            41.6,
+            48.07
+          ],
+          "label": "pour"
+        },
+        {
+          "segment": [
+            48.13,
+            49.33
+          ],
+          "label": "close"
+        },
+        {
+          "segment": [
+            49.4,
+            50.4
+          ],
+          "label": "put"
+        },
+        {
+          "segment": [
+            50.8,
+            53.73
+          ],
+          "label": "take"
+        },
+        {
+          "segment": [
+            54.13,
+            55.73
+          ],
+          "label": "put"
+        }
+      ],
+      "subset": "training"
+    },
+    "S3_CofHoney_C1": {
+      "duration": 59.47,
+      "frame": 892,
+      "annotations": [
+        {
+          "segment": [
+            1.4,
+            3.53
+          ],
+          "label": "take"
+        },
+        {
+          "segment": [
+            4.07,
+            6.33
+          ],
+          "label": "take"
+        },
+        {
+          "segment": [
+            6.4,
+            7.67
+          ],
+          "label": "take"
+        },
+        {
+          "segment": [
+            7.6,
+            9.6
+          ],
+          "label": "open"
+        },
+        {
+          "segment": [
+            12.4,
+            14.67
+          ],
+          "label": "scoop"
+        },
+        {
+          "segment": [
+            14.73,
+            15.27
+          ],
+          "label": "pour"
+        },
+        {
+          "segment": [
+            15.73,
+            17.53
+          ],
+          "label": "scoop"
+        },
+        {
+          "segment": [
+            17.6,
+            18.67
+          ],
+          "label": "pour"
+        },
+        {
+          "segment": [
+            19.93,
+            22.87
+          ],
+          "label": "close"
+        },
+        {
+          "segment": [
+            22.93,
+            23.6
+          ],
+          "label": "put"
+        },
+        {
+          "segment": [
+            23.73,
+            25.6
+          ],
+          "label": "take"
+        },
+        {
+          "segment": [
+            26.0,
+            27.8
+          ],
+          "label": "open"
+        },
+        {
+          "segment": [
+            29.0,
+            36.6
+          ],
+          "label": "pour"
+        },
+        {
+          "segment": [
+            36.93,
+            37.8
+          ],
+          "label": "close"
+        },
+        {
+          "segment": [
+            37.87,
+            39.07
+          ],
+          "label": "put"
+        },
+        {
+          "segment": [
+            39.53,
+            41.0
+          ],
+          "label": "take"
+        },
+        {
+          "segment": [
+            41.53,
+            43.13
+          ],
+          "label": "open"
+        },
+        {
+          "segment": [
+            43.93,
+            49.13
+          ],
+          "label": "pour"
+        },
+        {
+          "segment": [
+            49.2,
+            50.47
+          ],
+          "label": "close"
+        },
+        {
+          "segment": [
+            50.53,
+            51.73
+          ],
+          "label": "put"
+        },
+        {
+          "segment": [
+            53.27,
+            59.47
+          ],
+          "label": "stir"
+        }
+      ],
+      "subset": "training"
+    },
+    "S3_Coffee_C1": {
+      "duration": 72.6,
+      "frame": 1089,
+      "annotations": [
+        {
+          "segment": [
+            1.4,
+            6.73
+          ],
+          "label": "take"
+        },
+        {
+          "segment": [
+            7.8,
+            9.33
+          ],
+          "label": "take"
+        },
+        {
+          "segment": [
+            9.67,
+            11.33
+          ],
+          "label": "open"
+        },
+        {
+          "segment": [
+            12.07,
+            15.27
+          ],
+          "label": "take"
+        },
+        {
+          "segment": [
+            15.47,
+            17.8
+          ],
+          "label": "scoop"
+        },
+        {
+          "segment": [
+            17.87,
+            18.4
+          ],
+          "label": "pour"
+        },
+        {
+          "segment": [
+            18.8,
+            20.4
+          ],
+          "label": "scoop"
+        },
+        {
+          "segment": [
+            20.47,
+            21.4
+          ],
+          "label": "pour"
+        },
+        {
+          "segment": [
+            22.93,
+            26.2
+          ],
+          "label": "close"
+        },
+        {
+          "segment": [
+            26.27,
+            28.0
+          ],
+          "label": "put"
+        },
+        {
+          "segment": [
+            29.4,
+            31.6
+          ],
+          "label": "take"
+        },
+        {
+          "segment": [
+            33.2,
+            36.4
+          ],
+          "label": "open"
+        },
+        {
+          "segment": [
+            38.13,
+            40.13
+          ],
+          "label": "scoop"
+        },
+        {
+          "segment": [
+            40.2,
+            40.87
+          ],
+          "label": "pour"
+        },
+        {
+          "segment": [
+            41.2,
+            42.6
+          ],
+          "label": "scoop"
+        },
+        {
+          "segment": [
+            42.67,
+            43.2
+          ],
+          "label": "pour"
+        },
+        {
+          "segment": [
+            45.2,
+            47.4
+          ],
+          "label": "close"
+        },
+        {
+          "segment": [
+            47.47,
+            49.13
+          ],
+          "label": "put"
+        },
+        {
+          "segment": [
+            49.53,
+            50.87
+          ],
+          "label": "take"
+        },
+        {
+          "segment": [
+            51.33,
+            53.0
+          ],
+          "label": "open"
+        },
+        {
+          "segment": [
+            53.87,
+            67.6
+          ],
+          "label": "pour"
+        },
+        {
+          "segment": [
+            68.13,
+            69.13
+          ],
+          "label": "close"
+        },
+        {
+          "segment": [
+            69.2,
+            70.6
+          ],
+          "label": "put"
+        },
+        {
+          "segment": [
+            72.27,
+            72.6
+          ],
+          "label": "stir"
+        }
+      ],
+      "subset": "validation"
+    },
+    "S3_Hotdog_C1": {
+      "duration": 55.47,
+      "frame": 832,
+      "annotations": [
+        {
+          "segment": [
+            1.4,
+            3.87
+          ],
+          "label": "take"
+        },
+        {
+          "segment": [
+            5.13,
+            10.0
+          ],
+          "label": "take"
+        },
+        {
+          "segment": [
+            10.0,
+            12.2
+          ],
+          "label": "put"
+        },
+        {
+          "segment": [
+            12.2,
+            14.07
+          ],
+          "label": "take"
+        },
+        {
+          "segment": [
+            14.13,
+            16.07
+          ],
+          "label": "open"
+        },
+        {
+          "segment": [
+            16.47,
+            31.67
+          ],
+          "label": "pour"
+        },
+        {
+          "segment": [
+            31.8,
+            32.8
+          ],
+          "label": "close"
+        },
+        {
+          "segment": [
+            32.87,
+            33.87
+          ],
+          "label": "put"
+        },
+        {
+          "segment": [
+            33.93,
+            35.53
+          ],
+          "label": "take"
+        },
+        {
+          "segment": [
+            35.6,
+            37.73
+          ],
+          "label": "open"
+        },
+        {
+          "segment": [
+            38.67,
+            47.4
+          ],
+          "label": "pour"
+        },
+        {
+          "segment": [
+            47.47,
+            49.2
+          ],
+          "label": "close"
+        },
+        {
+          "segment": [
+            49.27,
+            50.67
+          ],
+          "label": "put"
+        },
+        {
+          "segment": [
+            51.6,
+            55.47
+          ],
+          "label": "fold"
+        }
+      ],
+      "subset": "training"
+    },
+    "S3_Pealate_C1": {
+      "duration": 74.27,
+      "frame": 1114,
+      "annotations": [
+        {
+          "segment": [
+            1.2,
+            5.13
+          ],
+          "label": "take"
+        },
+        {
+          "segment": [
+            5.6,
+            7.2
+          ],
+          "label": "take"
+        },
+        {
+          "segment": [
+            7.27,
+            9.13
+          ],
+          "label": "open"
+        },
+        {
+          "segment": [
+            9.47,
+            12.33
+          ],
+          "label": "take"
+        },
+        {
+          "segment": [
+            13.47,
+            16.87
+          ],
+          "label": "scoop"
+        },
+        {
+          "segment": [
+            18.6,
+            24.6
+          ],
+          "label": "spread"
+        },
+        {
+          "segment": [
+            25.6,
+            27.67
+          ],
+          "label": "close"
+        },
+        {
+          "segment": [
+            27.73,
+            28.47
+          ],
+          "label": "put"
+        },
+        {
+          "segment": [
+            28.53,
+            29.73
+          ],
+          "label": "take"
+        },
+        {
+          "segment": [
+            29.8,
+            32.07
+          ],
+          "label": "open"
+        },
+        {
+          "segment": [
+            34.6,
+            37.2
+          ],
+          "label": "scoop"
+        },
+        {
+          "segment": [
+            38.67,
+            48.33
+          ],
+          "label": "spread"
+        },
+        {
+          "segment": [
+            49.4,
+            53.47
+          ],
+          "label": "close"
+        },
+        {
+          "segment": [
+            53.53,
+            54.27
+          ],
+          "label": "put"
+        },
+        {
+          "segment": [
+            54.33,
+            55.6
+          ],
+          "label": "take"
+        },
+        {
+          "segment": [
+            55.8,
+            58.73
+          ],
+          "label": "open"
+        },
+        {
+          "segment": [
+            59.93,
+            63.07
+          ],
+          "label": "pour"
+        },
+        {
+          "segment": [
+            63.73,
+            65.07
+          ],
+          "label": "close"
+        },
+        {
+          "segment": [
+            65.13,
+            66.4
+          ],
+          "label": "put"
+        },
+        {
+          "segment": [
+            66.73,
+            69.93
+          ],
+          "label": "take"
+        },
+        {
+          "segment": [
+            70.0,
+            74.27
+          ],
+          "label": "put"
+        }
+      ],
+      "subset": "validation"
+    },
+    "S3_Peanut_C1": {
+      "duration": 61.27,
+      "frame": 919,
+      "annotations": [
+        {
+          "segment": [
+            1.47,
+            4.2
+          ],
+          "label": "take"
+        },
+        {
+          "segment": [
+            4.4,
+            6.13
+          ],
+          "label": "take"
+        },
+        {
+          "segment": [
+            6.2,
+            9.47
+          ],
+          "label": "open"
+        },
+        {
+          "segment": [
+            9.93,
+            12.93
+          ],
+          "label": "take"
+        },
+        {
+          "segment": [
+            13.07,
+            15.6
+          ],
+          "label": "scoop"
+        },
+        {
+          "segment": [
+            16.33,
+            25.67
+          ],
+          "label": "spread"
+        },
+        {
+          "segment": [
+            27.53,
+            31.07
+          ],
+          "label": "close"
+        },
+        {
+          "segment": [
+            31.13,
+            32.33
+          ],
+          "label": "put"
+        },
+        {
+          "segment": [
+            35.0,
+            36.47
+          ],
+          "label": "take"
+        },
+        {
+          "segment": [
+            37.0,
+            39.73
+          ],
+          "label": "open"
+        },
+        {
+          "segment": [
+            45.87,
+            50.27
+          ],
+          "label": "pour"
+        },
+        {
+          "segment": [
+            51.4,
+            52.67
+          ],
+          "label": "close"
+        },
+        {
+          "segment": [
+            52.73,
+            54.53
+          ],
+          "label": "put"
+        },
+        {
+          "segment": [
+            55.27,
+            58.67
+          ],
+          "label": "take"
+        },
+        {
+          "segment": [
+            58.73,
+            61.27
+          ],
+          "label": "put"
+        }
+      ],
+      "subset": "training"
+    },
+    "S3_Tea_C1": {
+      "duration": 90.6,
+      "frame": 1359,
+      "annotations": [
+        {
+          "segment": [
+            1.4,
+            4.2
+          ],
+          "label": "take"
+        },
+        {
+          "segment": [
+            4.33,
+            5.73
+          ],
+          "label": "take"
+        },
+        {
+          "segment": [
+            5.8,
+            7.67
+          ],
+          "label": "open"
+        },
+        {
+          "segment": [
+            8.27,
+            18.8
+          ],
+          "label": "pour"
+        },
+        {
+          "segment": [
+            18.87,
+            19.67
+          ],
+          "label": "close"
+        },
+        {
+          "segment": [
+            19.73,
+            21.07
+          ],
+          "label": "put"
+        },
+        {
+          "segment": [
+            21.93,
+            26.27
+          ],
+          "label": "take"
+        },
+        {
+          "segment": [
+            26.8,
+            32.67
+          ],
+          "label": "open"
+        },
+        {
+          "segment": [
+            34.47,
+            51.07
+          ],
+          "label": "shake"
+        },
+        {
+          "segment": [
+            56.0,
+            57.8
+          ],
+          "label": "take"
+        },
+        {
+          "segment": [
+            58.0,
+            62.33
+          ],
+          "label": "open"
+        },
+        {
+          "segment": [
+            63.07,
+            68.53
+          ],
+          "label": "take"
+        },
+        {
+          "segment": [
+            69.2,
+            71.2
+          ],
+          "label": "scoop"
+        },
+        {
+          "segment": [
+            71.27,
+            72.13
+          ],
+          "label": "pour"
+        },
+        {
+          "segment": [
+            72.53,
+            74.0
+          ],
+          "label": "scoop"
+        },
+        {
+          "segment": [
+            74.07,
+            74.53
+          ],
+          "label": "pour"
+        },
+        {
+          "segment": [
+            76.67,
+            79.6
+          ],
+          "label": "close"
+        },
+        {
+          "segment": [
+            79.67,
+            81.27
+          ],
+          "label": "put"
+        },
+        {
+          "segment": [
+            84.73,
+            90.6
+          ],
+          "label": "stir"
+        }
+      ],
+      "subset": "training"
+    },
+    "S4_Cheese_C1": {
+      "duration": 49.33,
+      "frame": 740,
+      "annotations": [
+        {
+          "segment": [
+            1.4,
+            4.87
+          ],
+          "label": "take"
+        },
+        {
+          "segment": [
+            5.6,
+            7.2
+          ],
+          "label": "take"
+        },
+        {
+          "segment": [
+            7.33,
+            15.93
+          ],
+          "label": "open"
+        },
+        {
+          "segment": [
+            15.87,
+            17.27
+          ],
+          "label": "put"
+        },
+        {
+          "segment": [
+            17.33,
+            18.87
+          ],
+          "label": "take"
+        },
+        {
+          "segment": [
+            20.0,
+            21.53
+          ],
+          "label": "open"
+        },
+        {
+          "segment": [
+            21.8,
+            28.93
+          ],
+          "label": "pour"
+        },
+        {
+          "segment": [
+            29.07,
+            30.07
+          ],
+          "label": "close"
+        },
+        {
+          "segment": [
+            30.13,
+            31.87
+          ],
+          "label": "put"
+        },
+        {
+          "segment": [
+            31.93,
+            33.67
+          ],
+          "label": "take"
+        },
+        {
+          "segment": [
+            34.73,
+            37.0
+          ],
+          "label": "open"
+        },
+        {
+          "segment": [
+            37.2,
+            40.4
+          ],
+          "label": "pour"
+        },
+        {
+          "segment": [
+            40.8,
+            41.8
+          ],
+          "label": "close"
+        },
+        {
+          "segment": [
+            41.87,
+            43.53
+          ],
+          "label": "put"
+        },
+        {
+          "segment": [
+            43.8,
+            45.6
+          ],
+          "label": "take"
+        },
+        {
+          "segment": [
+            45.8,
+            49.33
+          ],
+          "label": "put"
+        }
+      ],
+      "subset": "validation"
+    },
+    "S4_CofHoney_C1": {
+      "duration": 58.0,
+      "frame": 870,
+      "annotations": [
+        {
+          "segment": [
+            1.27,
+            3.93
+          ],
+          "label": "take"
+        },
+        {
+          "segment": [
+            4.93,
+            8.13
+          ],
+          "label": "take"
+        },
+        {
+          "segment": [
+            8.67,
+            9.53
+          ],
+          "label": "take"
+        },
+        {
+          "segment": [
+            9.53,
+            11.67
+          ],
+          "label": "open"
+        },
+        {
+          "segment": [
+            12.8,
+            14.47
+          ],
+          "label": "scoop"
+        },
+        {
+          "segment": [
+            14.67,
+            15.2
+          ],
+          "label": "pour"
+        },
+        {
+          "segment": [
+            15.53,
+            17.0
+          ],
+          "label": "scoop"
+        },
+        {
+          "segment": [
+            17.07,
+            17.53
+          ],
+          "label": "pour"
+        },
+        {
+          "segment": [
+            18.2,
+            21.07
+          ],
+          "label": "close"
+        },
+        {
+          "segment": [
+            21.13,
+            22.07
+          ],
+          "label": "put"
+        },
+        {
+          "segment": [
+            22.4,
+            24.4
+          ],
+          "label": "take"
+        },
+        {
+          "segment": [
+            24.73,
+            26.13
+          ],
+          "label": "open"
+        },
+        {
+          "segment": [
+            27.6,
+            34.93
+          ],
+          "label": "pour"
+        },
+        {
+          "segment": [
+            36.07,
+            36.67
+          ],
+          "label": "close"
+        },
+        {
+          "segment": [
+            36.73,
+            37.73
+          ],
+          "label": "put"
+        },
+        {
+          "segment": [
+            38.0,
+            39.07
+          ],
+          "label": "take"
+        },
+        {
+          "segment": [
+            39.33,
+            42.0
+          ],
+          "label": "open"
+        },
+        {
+          "segment": [
+            43.0,
+            48.4
+          ],
+          "label": "pour"
+        },
+        {
+          "segment": [
+            49.47,
+            50.47
+          ],
+          "label": "close"
+        },
+        {
+          "segment": [
+            50.53,
+            51.47
+          ],
+          "label": "put"
+        },
+        {
+          "segment": [
+            52.07,
+            58.0
+          ],
+          "label": "stir"
+        }
+      ],
+      "subset": "training"
+    },
+    "S4_Coffee_C1": {
+      "duration": 64.2,
+      "frame": 963,
+      "annotations": [
+        {
+          "segment": [
+            1.0,
+            3.33
+          ],
+          "label": "take"
+        },
+        {
+          "segment": [
+            5.2,
+            6.67
+          ],
+          "label": "take"
+        },
+        {
+          "segment": [
+            7.6,
+            8.8
+          ],
+          "label": "take"
+        },
+        {
+          "segment": [
+            8.87,
+            11.8
+          ],
+          "label": "open"
+        },
+        {
+          "segment": [
+            13.13,
+            16.2
+          ],
+          "label": "scoop"
+        },
+        {
+          "segment": [
+            16.27,
+            16.73
+          ],
+          "label": "pour"
+        },
+        {
+          "segment": [
+            17.07,
+            18.47
+          ],
+          "label": "scoop"
+        },
+        {
+          "segment": [
+            18.53,
+            18.93
+          ],
+          "label": "pour"
+        },
+        {
+          "segment": [
+            20.73,
+            23.93
+          ],
+          "label": "close"
+        },
+        {
+          "segment": [
+            24.0,
+            25.13
+          ],
+          "label": "put"
+        },
+        {
+          "segment": [
+            25.4,
+            28.07
+          ],
+          "label": "take"
+        },
+        {
+          "segment": [
+            28.07,
+            31.13
+          ],
+          "label": "open"
+        },
+        {
+          "segment": [
+            33.07,
+            34.6
+          ],
+          "label": "scoop"
+        },
+        {
+          "segment": [
+            34.67,
+            35.0
+          ],
+          "label": "pour"
+        },
+        {
+          "segment": [
+            35.93,
+            39.2
+          ],
+          "label": "close"
+        },
+        {
+          "segment": [
+            39.27,
+            41.07
+          ],
+          "label": "put"
+        },
+        {
+          "segment": [
+            41.4,
+            43.13
+          ],
+          "label": "take"
+        },
+        {
+          "segment": [
+            44.0,
+            45.53
+          ],
+          "label": "open"
+        },
+        {
+          "segment": [
+            46.6,
+            55.67
+          ],
+          "label": "pour"
+        },
+        {
+          "segment": [
+            56.8,
+            57.6
+          ],
+          "label": "close"
+        },
+        {
+          "segment": [
+            57.67,
+            58.87
+          ],
+          "label": "put"
+        },
+        {
+          "segment": [
+            59.53,
+            64.2
+          ],
+          "label": "stir"
+        }
+      ],
+      "subset": "training"
+    },
+    "S4_Hotdog_C1": {
+      "duration": 42.93,
+      "frame": 644,
+      "annotations": [
+        {
+          "segment": [
+            1.53,
+            3.6
+          ],
+          "label": "take"
+        },
+        {
+          "segment": [
+            4.93,
+            8.53
+          ],
+          "label": "take"
+        },
+        {
+          "segment": [
+            8.6,
+            9.93
+          ],
+          "label": "put"
+        },
+        {
+          "segment": [
+            11.4,
+            13.13
+          ],
+          "label": "take"
+        },
+        {
+          "segment": [
+            15.13,
+            18.8
+          ],
+          "label": "open"
+        },
+        {
+          "segment": [
+            19.33,
+            22.73
+          ],
+          "label": "pour"
+        },
+        {
+          "segment": [
+            23.13,
+            23.47
+          ],
+          "label": "close"
+        },
+        {
+          "segment": [
+            23.53,
+            25.47
+          ],
+          "label": "put"
+        },
+        {
+          "segment": [
+            25.6,
+            26.4
+          ],
+          "label": "take"
+        },
+        {
+          "segment": [
+            27.87,
+            30.27
+          ],
+          "label": "open"
+        },
+        {
+          "segment": [
+            30.53,
+            34.07
+          ],
+          "label": "pour"
+        },
+        {
+          "segment": [
+            34.2,
+            35.13
+          ],
+          "label": "close"
+        },
+        {
+          "segment": [
+            35.2,
+            36.8
+          ],
+          "label": "put"
+        },
+        {
+          "segment": [
+            37.27,
+            42.93
+          ],
+          "label": "fold"
+        }
+      ],
+      "subset": "training"
+    },
+    "S4_Pealate_C1": {
+      "duration": 82.67,
+      "frame": 1240,
+      "annotations": [
+        {
+          "segment": [
+            1.07,
+            4.0
+          ],
+          "label": "take"
+        },
+        {
+          "segment": [
+            5.6,
+            6.93
+          ],
+          "label": "take"
+        },
+        {
+          "segment": [
+            7.0,
+            8.07
+          ],
+          "label": "open"
+        },
+        {
+          "segment": [
+            10.0,
+            11.73
+          ],
+          "label": "take"
+        },
+        {
+          "segment": [
+            13.4,
+            18.07
+          ],
+          "label": "scoop"
+        },
+        {
+          "segment": [
+            18.27,
+            20.0
+          ],
+          "label": "spread"
+        },
+        {
+          "segment": [
+            22.33,
+            23.8
+          ],
+          "label": "scoop"
+        },
+        {
+          "segment": [
+            24.0,
+            29.0
+          ],
+          "label": "spread"
+        },
+        {
+          "segment": [
+            31.07,
+            32.73
+          ],
+          "label": "close"
+        },
+        {
+          "segment": [
+            32.8,
+            33.67
+          ],
+          "label": "put"
+        },
+        {
+          "segment": [
+            33.73,
+            34.67
+          ],
+          "label": "take"
+        },
+        {
+          "segment": [
+            34.87,
+            37.93
+          ],
+          "label": "open"
+        },
+        {
+          "segment": [
+            39.27,
+            52.93
+          ],
+          "label": "spread"
+        },
+        {
+          "segment": [
+            53.87,
+            56.27
+          ],
+          "label": "close"
+        },
+        {
+          "segment": [
+            56.33,
+            56.93
+          ],
+          "label": "put"
+        },
+        {
+          "segment": [
+            57.13,
+            58.27
+          ],
+          "label": "take"
+        },
+        {
+          "segment": [
+            58.73,
+            60.2
+          ],
+          "label": "open"
+        },
+        {
+          "segment": [
+            62.13,
+            69.33
+          ],
+          "label": "pour"
+        },
+        {
+          "segment": [
+            69.4,
+            70.8
+          ],
+          "label": "close"
+        },
+        {
+          "segment": [
+            70.87,
+            72.47
+          ],
+          "label": "put"
+        },
+        {
+          "segment": [
+            72.67,
+            74.67
+          ],
+          "label": "take"
+        },
+        {
+          "segment": [
+            74.87,
+            82.67
+          ],
+          "label": "put"
+        }
+      ],
+      "subset": "training"
+    },
+    "S4_Peanut_C1": {
+      "duration": 62.2,
+      "frame": 933,
+      "annotations": [
+        {
+          "segment": [
+            0.8,
+            5.27
+          ],
+          "label": "take"
+        },
+        {
+          "segment": [
+            6.13,
+            7.6
+          ],
+          "label": "take"
+        },
+        {
+          "segment": [
+            7.93,
+            10.93
+          ],
+          "label": "open"
+        },
+        {
+          "segment": [
+            11.87,
+            13.53
+          ],
+          "label": "take"
+        },
+        {
+          "segment": [
+            14.53,
+            16.47
+          ],
+          "label": "scoop"
+        },
+        {
+          "segment": [
+            17.4,
+            20.0
+          ],
+          "label": "spread"
+        },
+        {
+          "segment": [
+            20.53,
+            22.8
+          ],
+          "label": "scoop"
+        },
+        {
+          "segment": [
+            24.13,
+            30.67
+          ],
+          "label": "spread"
+        },
+        {
+          "segment": [
+            32.2,
+            34.93
+          ],
+          "label": "close"
+        },
+        {
+          "segment": [
+            35.0,
+            35.8
+          ],
+          "label": "put"
+        },
+        {
+          "segment": [
+            36.13,
+            37.53
+          ],
+          "label": "take"
+        },
+        {
+          "segment": [
+            37.6,
+            39.67
+          ],
+          "label": "open"
+        },
+        {
+          "segment": [
+            41.0,
+            48.4
+          ],
+          "label": "pour"
+        },
+        {
+          "segment": [
+            48.47,
+            49.6
+          ],
+          "label": "close"
+        },
+        {
+          "segment": [
+            48.47,
+            51.07
+          ],
+          "label": "put"
+        },
+        {
+          "segment": [
+            51.47,
+            54.13
+          ],
+          "label": "take"
+        },
+        {
+          "segment": [
+            54.27,
+            62.2
+          ],
+          "label": "put"
+        }
+      ],
+      "subset": "training"
+    },
+    "S4_Tea_C1": {
+      "duration": 75.13,
+      "frame": 1127,
+      "annotations": [
+        {
+          "segment": [
+            1.27,
+            3.67
+          ],
+          "label": "take"
+        },
+        {
+          "segment": [
+            4.4,
+            5.93
+          ],
+          "label": "take"
+        },
+        {
+          "segment": [
+            6.2,
+            7.4
+          ],
+          "label": "open"
+        },
+        {
+          "segment": [
+            8.6,
+            15.4
+          ],
+          "label": "pour"
+        },
+        {
+          "segment": [
+            16.47,
+            17.07
+          ],
+          "label": "close"
+        },
+        {
+          "segment": [
+            17.13,
+            18.13
+          ],
+          "label": "put"
+        },
+        {
+          "segment": [
+            18.47,
+            20.27
+          ],
+          "label": "take"
+        },
+        {
+          "segment": [
+            25.4,
+            31.2
+          ],
+          "label": "open"
+        },
+        {
+          "segment": [
+            33.73,
+            45.2
+          ],
+          "label": "shake"
+        },
+        {
+          "segment": [
+            47.13,
+            49.6
+          ],
+          "label": "take"
+        },
+        {
+          "segment": [
+            50.2,
+            52.47
+          ],
+          "label": "take"
+        },
+        {
+          "segment": [
+            53.87,
+            56.13
+          ],
+          "label": "open"
+        },
+        {
+          "segment": [
+            57.47,
+            59.07
+          ],
+          "label": "scoop"
+        },
+        {
+          "segment": [
+            59.13,
+            59.53
+          ],
+          "label": "pour"
+        },
+        {
+          "segment": [
+            59.73,
+            61.07
+          ],
+          "label": "scoop"
+        },
+        {
+          "segment": [
+            61.13,
+            61.53
+          ],
+          "label": "pour"
+        },
+        {
+          "segment": [
+            62.07,
+            65.0
+          ],
+          "label": "stir"
+        },
+        {
+          "segment": [
+            65.93,
+            67.73
+          ],
+          "label": "close"
+        },
+        {
+          "segment": [
+            67.8,
+            69.07
+          ],
+          "label": "put"
+        },
+        {
+          "segment": [
+            70.07,
+            75.13
+          ],
+          "label": "stir"
+        }
+      ],
+      "subset": "validation"
+    }
+  }
+}
