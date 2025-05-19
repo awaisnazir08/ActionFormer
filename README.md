@@ -152,7 +152,28 @@ python evaluate.py \
 ```
 ---
 
-## 📌 Notes
 
+## Download Model Weights
+
+### Links:
+
+best.pth are our weights
+actionformer_thumos_i3d_epoch_34_8e5ac8fd.pth are the pretrained weights on Thumos-14 dataset from where we started finetuning
+https://drive.google.com/drive/u/0/folders/1ihHP6HE40r-tnekI-DR4EMkVJq0bmHEK
+
+
+## Download Model Weights
+
+### Links
+
+- **[best.pth](https://drive.google.com/drive/u/0/folders/1ihHP6HE40r-tnekI-DR4EMkVJq0bmHEK)**  
+  Our fine-tuned model weights.
+
+- **[actionformer_thumos_i3d_epoch_34_8e5ac8fd.pth](https://drive.google.com/drive/u/0/folders/1ihHP6HE40r-tnekI-DR4EMkVJq0bmHEK)**  
+  Pretrained weights on the THUMOS-14 dataset, which we used as a starting point for fine-tuning.
+
+
+
+## 📌 Notes
 - Ensure that all filenames in `annotations.json` match the actual filenames in `datasets/videos/`.
 - Modify `configs/actionformer/thumos_i3d.py` as necessary to reflect the correct dataset and feature paths.
